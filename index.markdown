@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hot Pink Cat - Save 20% On Groceries and Gas
+title: Save 20% On Groceries and Gas
 this-button: Home
 ---
 <br/>
